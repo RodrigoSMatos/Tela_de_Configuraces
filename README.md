@@ -11,3 +11,4 @@ Adicionei funcionalidade ao clickable da imagem de perfil para abrir a imagem em
 Troquei a cor de fundo para azulCavalo que adicionei no Color.kt
 Coloquei para exibir dinamicamente o valor selecionado no Slider
 
+![img.png](img.png)
